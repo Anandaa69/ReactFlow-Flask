@@ -50,17 +50,6 @@ You'll need **two terminals** running simultaneously:
 | Terminal 1 | Frontend (React) | `npm run dev` |
 | Terminal 2 | Backend (Flask) | `python main.py` |
 
-## Project Structure
-```
-ReactFlow-Flask/
-├── client/          # React frontend
-│   ├── package.json
-│   └── ...
-├── main.py          # Flask backend entry point
-├── pyproject.toml   # Poetry configuration
-└── README.md
-```
-
 ## Troubleshooting
 - Make sure both terminals are running for full functionality
 - Ensure Python 3.12 is installed and accessible
